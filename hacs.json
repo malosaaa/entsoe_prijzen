@@ -1,13 +1,7 @@
 {
   "name": "ENTSO-E Energieprijzen",
-  "content_in_root": false,
+  "content_binary": false,
   "render_readme": true,
-  "country": ["NL"],
-  "domains": ["sensor"],
-  "homeassistant": "2023.1.0",
-  "hide_default_branch": false,
-  "documentation_url": "https://github.com/Malosaaa/entsoe_prijzen",
-  "issue_tracker_url": "https://github.com/Malosaaa/entsoe_prijzen/issues",
-  "version": "1.0.0",
-  "iot_class": "cloud_polling"
+  "country": "NL",
+  "homeassistant": "2024.1.0"
 }
