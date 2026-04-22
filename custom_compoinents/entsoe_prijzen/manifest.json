@@ -2,8 +2,8 @@
   "domain": "entsoe_prijzen",
   "name": "ENTSO-E Energieprijzen",
   "config_flow": true,
-  "documentation": "https://github.com/Malosaaa/entsoe-prijzen",
-  "issue_tracker": "https://github.com/Malosaaa/entsoe-prijzen/issues",
+  "documentation": "https://github.com/Malosaaa/entsoe_prijzen",
+  "issue_tracker": "https://github.com/Malosaaa/entsoe_prijzen/issues",
   "codeowners": [
     "@Malosaaa"
   ],
