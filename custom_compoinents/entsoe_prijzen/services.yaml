@@ -1,0 +1,7 @@
+refresh:
+  name: Refresh ENTSO-E
+  description: Forceert een directe download van de nieuwste ENTSO-E energieprijzen op de achtergrond.
+
+clear_files:
+  name: Clear Cache & Debug (ENTSO-E)
+  description: Verwijdert de lokale cache en eventuele debug bestanden.
