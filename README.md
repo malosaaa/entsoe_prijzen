@@ -136,6 +136,8 @@ content: >-
   {% else %} ⏳ Data wordt nog geladen... {% endif %}
 
 ```
+<img width="504" height="747" alt="{A1B9F634-537C-44C2-A797-697F810510F4}" src="https://github.com/user-attachments/assets/2ff18ea7-6b0c-43a6-b899-5ac4b4118ccc" />
+
 [hacs]: https://hacs.xyz
 [hacs_badge]: https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge
 [maintenance_badge]: https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge
