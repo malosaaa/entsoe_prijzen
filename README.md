@@ -23,7 +23,7 @@ Een efficiënte, razendsnelle en robuuste Home Assistant integratie die de offic
 
 ## ⚙️ Configuratie
 
-1. Maak een gratis account aan op [transparency.entsoe.eu](https://transparency.entsoe.eu/) en vraag een Security Token aan.
+1. Maak een gratis account aan op [transparency.entsoe.eu](https://transparency.entsoe.eu/) en vraag een Security Token aan door hun te meailen.
 2. Ga in Home Assistant naar **Instellingen** > **Apparaten & Diensten**.
 3. Klik rechtsonder op **+ Integratie toevoegen**.
 4. Zoek naar **ENTSO-E Energieprijzen**.
